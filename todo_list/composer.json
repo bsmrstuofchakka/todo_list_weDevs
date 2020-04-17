@@ -1,0 +1,6 @@
+{
+  "autoload": {
+    "classmap": [""],
+    "files": ["db_class.php"]
+  }
+}
