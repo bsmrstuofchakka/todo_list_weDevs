@@ -1,0 +1,6 @@
+#please change password in file name db_class.php and give your database password line number 7.
+# import mysql database( file name todo_list.sql) in phpmyadmin. 
+# This todo application is developed by Object Oriented PHP.
+# Here using composer to manage autoloader.
+# When we click clear completed button ,it removes from the database with working properly.
+# Follows according to the weDevs Assignment Video. 
